@@ -50,11 +50,14 @@ flutter run
 
 🔗 GitHub: mudiv
 
-🔗 Telegram: @yourtelegram
+🔗 YouTube: [ @yourtelegram](https://youtube.com/channel/UCUNbzQRjfAXGCKI1LY72DTA)
 
-🔗 Twitter/X: @yourtwitter
+🔗 instagram: https://instagram.com/muntazirhalim?utm_medium=copy_link
+
+•  Telgram : @DIBIBl , @TDTDI , @ruks3
 
 🔗 LinkedIn: منتظر حليم
+
 
 
 💙 لا تنسَ دعم المشروع بوضع ⭐ على GitHub!
