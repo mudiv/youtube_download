@@ -1,16 +1,62 @@
 # youtube_download
 
-A new Flutter project.
+إليك ملف README.md بصيغة Markdown لوصف مشروعك، مع إضافة حقوقك وحساباتك:
 
-## Getting Started
+# 📥 YouTube Download - تطبيق تحميل فيديوهات اليوتيوب 🎥  
 
-This project is a starting point for a Flutter application.
+YouTube Download هو تطبيق مفتوح المصدر مكتوب بلغة Flutter يتيح لك تحميل مقاطع الفيديو من YouTube بسهولة، مع دعم تحميل الصوت فقط، وجودات متعددة.  
 
-A few resources to get you started if this is your first Flutter project:
+## 🚀 الميزات  
+- 📺 تحميل الفيديوهات بجودات مختلفة  
+- 🎵 تحميل الصوت فقط من الفيديو  
+- ⚡ سرعة وأداء عالي  
+- 🎨 تصميم بسيط وسهل الاستخدام  
+- 🔓 مفتوح المصدر وقابل للتطوير  
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+## 📷 صور من التطبيق  
+![photo_2025-01-04_15-14-35](https://github.com/user-attachments/assets/3016445b-24a7-4e50-80f1-14af3504c847)
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+
+## 🔧 كيفية التثبيت والتشغيل  
+1. تأكد من تثبيت [Flutter](https://flutter.dev/docs/get-started/install).  
+2. استنسخ المستودع:  
+   `sh
+   git clone https://github.com/mudiv/youtube_download.git
+   cd youtube_download
+
+3. قم بتثبيت الحزم المطلوبة:
+``` 
+flutter pub get
+``` 
+
+4. شغّل التطبيق على المحاكي أو الهاتف:
+``` 
+flutter run
+``` 
+
+
+🤝 المساهمة
+
+يسعدنا تلقي المساهمات لتحسين التطبيق! يمكنك فتح Issues للإبلاغ عن المشاكل، أو إرسال Pull Requests للمساهمة في التطوير.
+
+📜 الحقوق
+
+هذا المشروع مرخص تحت MIT License، يمكنك استخدامه بحرية مع الحفاظ على الحقوق.
+
+حقوق التطوير:
+👨‍💻 منتظر حليم
+
+📲 تواصل معي
+
+🔗 GitHub: mudiv
+
+🔗 Telegram: @yourtelegram
+
+🔗 Twitter/X: @yourtwitter
+
+🔗 LinkedIn: منتظر حليم
+
+
+💙 لا تنسَ دعم المشروع بوضع ⭐ على GitHub!
+
+✍ يمكنك تعديل الروابط لحساباتك الحقيقية، وإضافة صور أو تحسين الوصف حسب رغبتك! 🚀
